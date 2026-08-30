@@ -1,4 +1,4 @@
-# AgriSure – Production‑ready Insurance Platform
+# Agrownex – Production‑ready Insurance Platform
 
 AgriSure is a modern, type‑safe web app that delivers agriculture‑focused insurance with real‑time weather analytics and an AI assistant. It’s built on React 18 + Vite with an Express 5 backend and is ready to deploy to Netlify or Vercel.
 
