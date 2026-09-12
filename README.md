@@ -83,3 +83,19 @@ Agrownex/
 ├── netlify.toml
 ├── vercel.json
 └── package.json
+
+## 📚 Project Documentation
+
+The complete project documentation and presentation for **Agrownex** are available below.
+
+### 📘 Minor Project Report
+
+The complete minor project report contains the project overview, objectives, system design, implementation details, technologies used, results, and future scope.
+
+👉 [View Minor Project Report](./minor%20report.pdf)
+
+### 📊 Agrownex Project Presentation
+
+The project presentation provides an overview of the Agrownex platform, its features, technologies, architecture, implementation, and outcomes.
+
+👉 [View Agrownex PPT](./Agrownex%20ppt.pptx)
